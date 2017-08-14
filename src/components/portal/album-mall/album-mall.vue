@@ -1,6 +1,6 @@
 <template>
   <div class="music-hall">
-    音乐馆
+    数字专辑
   </div>
 </template>
 

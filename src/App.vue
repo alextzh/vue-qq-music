@@ -7,8 +7,8 @@
 </template>
 
 <script type="text/ecmascript-6">
-  import MyHeader from 'base/header/my-header.vue'
-  import MyFooter from 'base/footer/my-footer.vue'
+  import MyHeader from 'base/header/my-header'
+  import MyFooter from 'base/footer/my-footer'
 
   export default {
     components: {
